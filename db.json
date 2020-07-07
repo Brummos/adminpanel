@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "organizations": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Sphereon",
+      "subscription": "Subscription 1"
     }
   ],
   "profile": {
