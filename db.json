@@ -2,8 +2,8 @@
   "organizations": [
     {
       "id": 1,
-      "name": "Sphereon"
-	  "subscription": "Subscription 1"
+      "name": "Sphereon",
+      "subscription": "Subscription 1"
     }
   ],
   "profile": {
