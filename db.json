@@ -3,31 +3,44 @@
     {
       "id": 1,
       "name": "Sphereon",
-      "subscription": "Subscription 1"
-    }
-  ],
-  "posts": [
-    {
-	  "userId": 1,	
+      "subscription": "Subscription 1",
+	  "users": [
+	      {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
+	  "org_id": 1,
       "name": "Bram ten cate",
 	  "email": "btencate@sphereon.com",
 	  "phone": "06-12345678",
 	  "website": "www.sphereon.com",
 	  "company.name": "Sphereon"
     },
-{
+	  }
+    }
+  ],
+  "posts": [
+    {
+	  "userId": 1,	
+      "id": 1,
+      "title": "hello",
+	  "body": "ajkhhdsjkahdaskjhdkjas"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+	  "org_id": 1,
+      "name": "Bram ten cate",
+	  "email": "btencate@sphereon.com",
+	  "phone": "06-12345678",
+	  "website": "www.sphereon.com",
+	  "company.name": "Sphereon"
+    },
+	{
       "id": 2,
       "name": "Bram ten cate2",
 	  "email": "btencate@sphereon.com2",
-	  "phone": "06-123456782",
-	  "website": "www.sphereon.com2",
+	  "phone": "06-12345678",
+	  "website": "www.sphereon.com",
 	  "company.name": "Sphereon"
     }
   ],
