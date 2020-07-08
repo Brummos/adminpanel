@@ -4,17 +4,7 @@
       "id": 1,
       "name": "Sphereon",
       "subscription": "Subscription 1",
-	  "users": [
-	      {
-      "id": 1,
-	  "org_id": 1,
-      "name": "Bram ten cate",
-	  "email": "btencate@sphereon.com",
-	  "phone": "06-12345678",
-	  "website": "www.sphereon.com",
-	  "company.name": "Sphereon"
-    },
-	],
+
 }
   ],
   "posts": [
