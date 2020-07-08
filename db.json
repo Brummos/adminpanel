@@ -15,7 +15,6 @@
   ],
   "users": [
     {
-	  "userId": 1,	
       "id": 1,
       "name": "Bram ten cate",
 	  "email": "btencate@sphereon.com",
@@ -24,7 +23,6 @@
 	  "company.name": "Sphereon"
     },
 {
-	  "userId":2,	
       "id": 2,
       "name": "Bram ten cate2",
 	  "email": "btencate@sphereon.com2",
