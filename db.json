@@ -29,8 +29,8 @@
          "description":"Second subscription"
       },
       {
-         "id":2,
-         "name":"Subscription 2",
+         "id":3,
+         "name":"Subscription 3",
          "description":"Third subscription"
       }
    ],
