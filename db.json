@@ -82,21 +82,21 @@
    "subscriptions":[
       {
          "id":1,
-         "name":"Subscription 1",
+         "name":"Free",
          "description":"First subscription",
          "created":"01-01-2020",
          "last updated":"01-01-2020"
       },
       {
          "id":2,
-         "name":"Subscription 2",
+         "name":"Basic",
          "description":"Second subscription",
          "created":"01-01-2020",
          "last updated":"01-01-2020"
       },
       {
          "id":3,
-         "name":"Subscription 3",
+         "name":"Premium",
          "description":"Third subscription",
          "created":"01-01-2020",
          "last updated":"01-01-2020"
