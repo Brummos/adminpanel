@@ -1,22 +1,40 @@
 {
-  "organizations": [
-    {
-      "id": 1,
-      "name": "Sphereon",
-      "subscription": "Subscription 1",
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Bram ten cate",
-	  "email": "btencate@sphereon.com",
-	  "phone": "06-12345678",
-	  "website": "www.sphereon.com",
-	  "company.name": "Sphereon",
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "organizations":[
+      {
+         "id":1,
+         "name":"Sphereon",
+         "subscription":"Subscription 1"
+      }
+   ],
+   "users":[
+      {
+         "id":1,
+         "name":"Bram ten cate",
+         "email":"btencate@sphereon.com",
+         "phone":"06-12345678",
+         "website":"www.sphereon.com",
+         "company.name":"Sphereon",
+         "active":"Yes"
+      }
+   ],
+   "subscriptions":[
+      {
+         "id":1,
+         "name":"Subscription 1",
+         "description":"First subscription"
+      },
+      {
+         "id":2,
+         "name":"Subscription 2",
+         "description":"Second subscription"
+      },
+      {
+         "id":2,
+         "name":"Subscription 2",
+         "description":"Third subscription"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
