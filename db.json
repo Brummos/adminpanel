@@ -5,35 +5,40 @@
          "name":"Sphereon",
          "subscription":"Subscription 3",
          "created":"01-01-2020",
-         "last updated":"01-01-2020"
+         "last updated":"01-01-2020",
+		 "type":"COMPANY"
       },
       {
          "id":2,
          "name":"KPN",
          "subscription":"Subscription 1",
          "created":"01-01-2020",
-         "last updated":"01-01-2020"
+         "last updated":"01-01-2020",
+		 "type":"COMPANY"
       },
       {
          "id":3,
          "name":"Henk de Vries",
          "subscription":"Subscription 3",
          "created":"01-01-2020",
-         "last updated":"01-01-2020"
+         "last updated":"01-01-2020",
+		 "type":"USER"
       },
       {
          "id":4,
          "name":"Jan Jansen",
          "subscription":"Subscription 2",
          "created":"01-01-2020",
-         "last updated":"01-01-2020"
+         "last updated":"01-01-2020",
+		 "type":"USER"
       },
       {
          "id":5,
          "name":"Tweak",
          "subscription":"Subscription 1",
          "created":"01-01-2020",
-         "last updated":"01-01-2020"
+         "last updated":"01-01-2020",
+		 "type":"COMPANY"
       }
    ],
    "users":[
