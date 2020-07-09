@@ -2,7 +2,7 @@
    "customers":[
       {
          "id":1,
-         "name":"Sphereon",
+         "name":"Organization 1",
 		 "subscription_id":3,
          "subscription":"Subscription 3",
          "created":"01-01-2020",
@@ -11,7 +11,7 @@
       },
       {
          "id":2,
-         "name":"KPN",
+         "name":"Organization 2",
 		 "subscription_id":1,
          "subscription":"Subscription 1",
          "created":"01-01-2020",
@@ -20,7 +20,7 @@
       },
       {
          "id":3,
-         "name":"Henk de Vries",
+         "name":"User 1",
 		 "subscription_id":3,
          "subscription":"Subscription 3",
          "created":"01-01-2020",
@@ -29,7 +29,7 @@
       },
       {
          "id":4,
-         "name":"Jan Jansen",
+         "name":"User 2",
 		 "subscription_id":2,
          "subscription":"Subscription 2",
          "created":"01-01-2020",
@@ -38,7 +38,7 @@
       },
       {
          "id":5,
-         "name":"Tweak",
+         "name":"Organization 3",
 		 "subscription_id":1,
          "subscription":"Subscription 1",
          "created":"01-01-2020",
@@ -50,11 +50,11 @@
       {
          "id":1,
 		 "org_id":1,
-         "name":"Bram ten cate",
-         "email":"btencate@sphereon.com",
+         "name":"User 1",
+         "email":"user1@company1.com",
          "phone":"06-12345678",
-         "website":"www.sphereon.com",
-         "company.name":"Sphereon",
+         "website":"www.company1.com",
+         "company.name":"company 1",
          "active":true,
          "created":"01-01-2020",
          "last updated":"01-01-2020"
@@ -62,11 +62,11 @@
       {
          "id":2,
 		 "org_id":1,
-         "name":"Henk de Vries",
-         "email":"hdevries@sphereon.com",
+         "name":"User 2",
+         "email":"user2@company2.com",
          "phone":"06-32432423",
-         "website":"www.tweak.com",
-         "company.name":"Tweak",
+         "website":"www.company2.com",
+         "company.name":"company 2",
          "active":false,
          "created":"01-01-2020",
          "last updated":"01-01-2020"
@@ -74,11 +74,11 @@
       {
          "id":3,
 		 "org_id":2,
-         "name":"Jan Jansen",
-         "email":"jjansen@sphereon.com",
+         "name":"User 3",
+         "email":"user3@user3.com",
          "phone":"06-54362354",
-         "website":"www.kpn.com",
-         "company.name":"KPN",
+         "website":"www.user3.com",
+         "company.name":"company 3",
          "active":true,
          "created":"01-01-2020",
          "last updated":"01-01-2020"
