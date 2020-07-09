@@ -3,47 +3,43 @@
       {
          "id":1,
          "name":"Sphereon",
-         "subscription":"Subscription 1",
+         "subscription":"Subscription 3",
          "created":"01-01-2020",
-         "last updated":"01-01-2020",
-         "type":"COMPANY"
+         "last updated":"01-01-2020"
       },
       {
          "id":2,
          "name":"KPN",
          "subscription":"Subscription 1",
          "created":"01-01-2020",
-         "last updated":"01-01-2020",
-         "type":"COMPANY"
+         "last updated":"01-01-2020"
       },
       {
          "id":3,
          "name":"Henk de Vries",
-         "subscription":"Subscription 1",
+         "subscription":"Subscription 3",
          "created":"01-01-2020",
-         "last updated":"01-01-2020",
-         "type":"USER"
+         "last updated":"01-01-2020"
       },
       {
          "id":4,
          "name":"Jan Jansen",
-         "subscription":"Subscription 1",
+         "subscription":"Subscription 2",
          "created":"01-01-2020",
-         "last updated":"01-01-2020",
-         "type":"USER"
+         "last updated":"01-01-2020"
       },
       {
          "id":5,
          "name":"Tweak",
          "subscription":"Subscription 1",
          "created":"01-01-2020",
-         "last updated":"01-01-2020",
-         "type":"COMPANY"
+         "last updated":"01-01-2020"
       }
    ],
    "users":[
       {
          "id":1,
+		 "org_id":1,
          "name":"Bram ten cate",
          "email":"btencate@sphereon.com",
          "phone":"06-12345678",
@@ -55,6 +51,7 @@
       },
       {
          "id":2,
+		 "org_id":1,
          "name":"Henk de Vries",
          "email":"hdevries@sphereon.com",
          "phone":"06-32432423",
@@ -66,6 +63,7 @@
       },
       {
          "id":3,
+		 "org_id":2,
          "name":"Jan Jansen",
          "email":"jjansen@sphereon.com",
          "phone":"06-54362354",
