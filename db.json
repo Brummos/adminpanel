@@ -35,7 +35,7 @@
          "phone":"06-12345678",
          "website":"www.sphereon.com",
          "company.name":"Sphereon",
-         "active":"Yes"
+         "active":"true"
       },
       {
          "id":2,
@@ -44,7 +44,7 @@
          "phone":"06-32432423",
          "website":"www.tweak.com",
          "company.name":"Tweak",
-         "active":"No"
+         "active":"false"
       },
       {
          "id":3,
@@ -53,7 +53,7 @@
          "phone":"06-54362354",
          "website":"www.kpn.com",
          "company.name":"KPN",
-         "active":"Yes"
+         "active":"true"
       }
    ],
    "subscriptions":[
