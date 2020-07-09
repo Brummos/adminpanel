@@ -4,6 +4,16 @@
          "id":1,
          "name":"Sphereon",
          "subscription":"Subscription 1"
+      },
+      {
+         "id":2,
+         "name":"KPN",
+         "subscription":"Subscription 1"
+      },
+      {
+         "id":3,
+         "name":"Tweak",
+         "subscription":"Subscription 1"
       }
    ],
    "users":[
