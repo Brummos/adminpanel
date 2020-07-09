@@ -15,6 +15,24 @@
          "website":"www.sphereon.com",
          "company.name":"Sphereon",
          "active":"Yes"
+      },
+      {
+         "id":2,
+         "name":"Henk de Vries",
+         "email":"hdevries@sphereon.com",
+         "phone":"06-32432423",
+         "website":"www.tweak.com",
+         "company.name":"Tweak",
+         "active":"No"
+      },
+      {
+         "id":3,
+         "name":"Jan Jansen",
+         "email":"jjansen@sphereon.com",
+         "phone":"06-54362354",
+         "website":"www.kpn.com",
+         "company.name":"KPN",
+         "active":"Yes"
       }
    ],
    "subscriptions":[
