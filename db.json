@@ -63,10 +63,10 @@
          "id":2,
 		 "org_id":1,
          "name":"User 2",
-         "email":"user2@company2.com",
+         "email":"user2@company1.com",
          "phone":"06-32432423",
-         "website":"www.company2.com",
-         "company.name":"company 2",
+         "website":"www.company1.com",
+         "company.name":"company 1",
          "active":false,
          "created":"01-01-2020",
          "last updated":"01-01-2020"
